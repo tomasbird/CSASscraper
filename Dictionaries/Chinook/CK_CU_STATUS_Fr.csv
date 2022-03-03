@@ -1,0 +1,36 @@
+NOM_UC,INDICE_UC,SP_QUAL,TYPE_UC,ÉTAT_PSS,LAT_UC,LONG_UC
+West Vancouver Island-South_FA_0.x,CK-31,CK,Current,RED,48.94334657,-124.6453425
+East Vancouver Island-North_FA_0.x,CK-29,CK,Current,RED,50.18336665,-126.2875333
+East Vancouver Island-Nanaimo & Chemainus_FA_0.x,CK-25,CK,Current,TBD,48.97946955,-123.948884
+East Vancouver Island-Qualicum & Puntledge_FA_0.x,CK-27,CK,Current,TBD,49.44159972,-124.8926881
+East Vancouver Island-Cowichan & Koksilah_FA_0.x,CK-22,CK,Current,TBD,48.71098038,-123.7967417
+East Vancouver Island-Goldstream_FA_0.x,CK-21,CK,Current,TBD,48.50552869,-123.475084
+West Vancouver Island-North_FA_0.x,CK-33,CK,Current,TBD,50.4857693,-127.4724789
+West Vancouver Island-Nootka & Kyuquot_FA_0.x,CK-32,CK,Current,RED,49.80423358,-126.2252949
+Boundary Bay_FA_0.3,CK-2,CK,VREQ[Current],TBD,49.10556733,-122.7190814
+Fraser-Harrison Fall Transplant_FA_0.3<<Bin>>,CK-9008,CK,Bin,TBD,49.06245292,-121.6466778
+Lower Fraser River-Upper Pitt_SU_1.3,CK-5,CK,Current,DD,49.65244247,-122.6568973
+Lower Fraser River_FA_0.3,CK-3,CK,Current,GREEN,49.46699149,-121.8843003
+Lower Fraser River_SP_1.3,CK-4,CK,Current,TBD,50.33647286,-123.0639136
+Lower Fraser River_SU_1.3,CK-6,CK,Current,DD,50.0859778,-122.4597644
+Lower Thompson_SP_1.2,CK-17,CK,Current,RED,50.5023341,-121.0884678
+Maria Slough_SU_0.3,CK-7,CK,VREQ[Current],TBD,49.28360581,-121.7126675
+Middle Fraser-Fraser Canyon_SP_1.3,CK-8,CK,Current,DD,49.96498234,-121.9252703
+Middle Fraser River-Portage_FA_1.3,CK-9,CK,Current,RED,50.61684094,-122.3739254
+Middle Fraser River_SP_1.3,CK-10,CK,Current,RED,52.66346838,-123.8708723
+Middle Fraser River_SU_1.3,CK-11,CK,Current,AMBER,54.18903998,-124.4411395
+North Thompson_SP_1.3,CK-18,CK,Current,RED,52.03697067,-119.2945141
+North Thompson_SU_1.3,CK-19,CK,Current,RED,51.27907874,-120.0425196
+Okanagan_1.x,CK-1,CK,Current,RED,49.15180162,-119.4719531
+Shuswap River_SU_0.3,CK-15,CK,Current,TBD,50.57698373,-118.8549609
+South Thompson-Bessette Creek_SU_1.2,CK-16,CK,Current,RED,50.18068238,-118.9069959
+South Thompson_SU_0.3,CK-13,CK,Current,GREEN,50.80003566,-119.5544012
+South Thompson_SU_1.3,CK-14,CK,Current,RED/AMBER,50.53624298,-119.4893443
+Upper Adams River_SU_x.x,CK-82,CK,Current,DD,51.70041017,-119.1143223
+Upper Fraser River_SP_1.3,CK-12,CK,Current,RED,53.64049544,-121.2807573
+Southern Mainland-Georgia Strait_FA_0.x,CK-20,CK,Current,DD,50.3844736,-123.8862841
+Southern Mainland-Southern Fjords_FA_0.x,CK-28,CK,Current,DD,51.04,-125.9999836
+Homathko_SU_x.x,CK-34,CK,Current,DD,51.40984221,-124.8262215
+Klinaklini_SU_1.3,CK-35,CK,Current,DD,51.67959878,-125.4419273
+East Vancouver Island-Georgia Strait_SU_0.3,CK-83,CK,Current,TBD,49.5622666,-125.2011217
+East Vancouver Island-Nanaimo_SP_1.x,CK-23,CK,Current,DD,49.06272827,-124.2437043

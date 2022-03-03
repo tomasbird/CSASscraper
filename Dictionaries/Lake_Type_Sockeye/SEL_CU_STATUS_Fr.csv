@@ -1,0 +1,23 @@
+NOM_UC,INDICE_UC,SP_QUAL,TYPE_UC,ÉTAT_PSS,LAT_UC,LONG_UC
+Chilliwack-Early Summer Timing,SEL-03-01,SEL,Current,AMBER/GREEN,49.064,-121.4219849
+Cultus-Late Timing,SEL-03-02,SEL,Current,RED,49.035,-122.0219848
+Harrison-Downstream Migrating-Late Timing,SEL-03-03,SEL,Current,AMBER/GREEN,49.49614312,-121.833414
+Harrison-Upstream Migrating-Late Timing,SEL-03-04,SEL,Current,RED,49.358,-121.8879847
+Pitt-Early Summer Timing,SEL-03-05,SEL,Current,GREEN,49.551,-122.5689846
+Lillooet/Harrison-Late Timing,SEL-04-01,SEL,Current,AMBER,50.347,-122.6829843
+Nahatlatch-Early Summer Timing,SEL-05-02,SEL,Current,AMBER,49.96,-121.7899846
+Anderson/Seton-Early Summer Timing,SEL-06-01,SEL,Current,AMBER/GREEN,50.649,-122.3779843
+Chilko-Early Summer Timing,SEL-06-02,SEL,Current,DD,51.1278716,-124.0275109
+Chilko-Summer Timing,SEL-06-03,SEL,Current,GREEN,51.401,-124.0779838
+Francois/Fraser-Summer Timing,SEL-06-07,SEL,Current,AMBER/GREEN,54.02092706,-125.3514821
+Quesnel-Summer Timing,SEL-06-10,SEL,Current,RED/AMBER,52.53,-120.814984
+Seton-Late Timing,SEL-06-11,SEL,Bin,RED,50.68757898,-122.1284427
+Takla/Trembleur/Stuart-Summer Timing,SEL-06-13,SEL,Current,RED/AMBER,55.20216029,-125.7660519
+Takla/Trembleur-Early Stuart Timing,SEL-06-14,SEL,Current,RED,55.424,-125.911982
+Taseko-Early Summer Timing,SEL-06-16,SEL,Current,RED,51.31740141,-123.6423654
+Nadina/Francois-Early Summer Timing,SEL-06-20,SEL,VREQ[Bin],AMBER/GREEN,54.0274787,-125.6622428
+Bowron-Early Summer Timing,SEL-07-01,SEL,Current,RED,53.18238969,-121.2239035
+Shuswap Complex-Early Summer Timing,SEL-09-02,SEL,Current,AMBER,50.932,-119.1089848
+Shuswap Complex-Late Timing,SEL-09-03,SEL,Current,AMBER/GREEN,50.93755028,-119.1005183
+Kamloops-Early Summer Timing,SEL-10-01,SEL,Current,AMBER,51.342,-120.1689845
+North Barriere-Early Summer Timing,SEL-10-03,SEL,Bin,AMBER,51.30400036,-119.9320586
